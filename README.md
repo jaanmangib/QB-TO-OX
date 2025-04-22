@@ -1,3 +1,5 @@
+# Unsupported **ox_inventory**: [GitHub](https://github.com/overextended/ox_inventory) support end!
+
 # QBCore to Ox Conversion Guide
 
 This guide provides a complete step-by-step process to convert a QBCore-based script to work with Ox-related resources such as ox_core, ox_target, ox_inventory, and ox_lib.
