@@ -1,4 +1,4 @@
-# Unsupported [ox_inventory](https://github.com/overextended/ox_inventory) support end!
+# Restored support after [ox_inventory](https://github.com/CommunityOx/ox_inventory) support was restored
 
 # QBCore to Ox Conversion Guide
 
